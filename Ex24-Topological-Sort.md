@@ -1,5 +1,5 @@
-# Ex24 Topological Sort
-## DATE: 
+# Ex5(D)Topological Sort
+## DATE:28/04/2025
 ## AIM:
 To compose the code to determine whether the topological ordering for the following graph is possible or not.
 
@@ -37,13 +37,13 @@ To compose the code to determine whether the topological ordering for the follow
    - For each index `i` from `1` to `count`, print `topo_order[i]`.<br>
    
 7. End the program: 
-   - Return `0` to indicate successful completion.<br>
+   - Return `0` to indicate successful completion.<br> 
+
 ## Program:
 ```
 /*
 Program to determine whether the topological ordering for the following graph is possible or not
-Developed by: NITHIYANERANJAN S
-RegisterNumber:  212223040136
+
 */
 int main()
 {
@@ -94,8 +94,8 @@ int main()
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/087b9072-74cc-44ad-95a0-4de7a19fada5)
 
-![image](https://github.com/user-attachments/assets/71f71fcd-87ec-46e4-99d8-847900f991b5)
 
 ## Result:
 Thus, the C program for determining whether the topological ordering for the following graph is possible or not, is implemented successfully.
